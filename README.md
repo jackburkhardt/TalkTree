@@ -1,6 +1,6 @@
 # TalkTree
 
-TalkTree is a basic branching dialogue system for use in Unity games, and designed primarily for singleplayer RPGs. It was built and tested on Unity 2020.3, but your mileage may vary on other versions. Instructions, examples, and other documentation is forthcoming.
+TalkTree is a basic branching dialogue system for use in Unity games, designed primarily for singleplayer RPGs. It was built and tested on Unity 2020.3, but your mileage may vary on other versions. Instructions, examples, and other documentation is forthcoming.
 
 ## Features
 * Optional critera for dialogue options (skills, perks, global variables, etc)
